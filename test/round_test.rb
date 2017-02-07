@@ -1,7 +1,7 @@
 gem 'minitest', '~> 5.2'
 require 'minitest/autorun'
 require 'minitest/pride'
-require_relative '../lib/round.rb'
+require './lib/round.rb'
 
 require 'pry'
 
